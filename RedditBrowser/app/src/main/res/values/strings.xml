@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RedditBrowser</string>
+    <string name="title_activity_main">Login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="loginPrompt">Login</string>
+    <string name="guestPrompt">Guest</string>
+    <string name="userNamePrompt">Username</string>
+    <string name="title_activity_browse_subreddits">BrowseSubreddits</string>
+    <string name="title_subreddit_list">Subreddits</string>
+    <string name="title_subreddit_detail">Subreddit Detail</string>
+
+</resources>
